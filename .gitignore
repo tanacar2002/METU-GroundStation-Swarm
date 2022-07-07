@@ -1,0 +1,9 @@
+*.csv
+*.mp4
+*.bat
+secret.txt
+build
+groundstation_v2.c
+groundstation_v2.cp37-win_amd64.pyd
+*.spec
+**/__pycache__/

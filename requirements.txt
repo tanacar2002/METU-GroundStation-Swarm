@@ -1,0 +1,11 @@
+# pip install -r requirements.txt
+
+numpy
+opencv-python
+matplotlib
+pygame >= 2.0.0
+pillow
+pyserial
+pyopengl
+PyOpenGL-accelerate
+pyrr
